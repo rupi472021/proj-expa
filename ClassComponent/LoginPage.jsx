@@ -98,7 +98,7 @@ export default class LoginPage extends Component {
 
 
                     <TouchableOpacity onPress={this.loginPushed} style={styles.loginBtn}>
-                        <Text style={styles.loginText}>LOGIN</Text>
+                        <Text style={styles.loginText}>LOGIN now</Text>
                     </TouchableOpacity>
 
                     <View style={styles.TouchableOpacity}>
